@@ -9,7 +9,7 @@ You can also jump straight to my [Current Projects](#current-projects) or check 
 ![Waleed's Profile Picture](./pfp.jpg)
 
 ## About Me
-I have always loved figuring how things work. Whether it is building computers or complex data pipelines, I enjoy finding real-world ways to apply what I learned. I recently switched my focus from ~~Computer Engineering~~ to **Computer Science** so I could dive deeper into deep learning.
+I have always been driven by a natural curiosity to understand how complex systems work. Whether it is building computers or complex data pipelines, I enjoy finding real-world ways to apply what I learned. I recently switched my focus from ~~Computer Engineering~~ to **Computer Science** so I could dive deeper into deep learning.
 
 One of my favorite quotes is from Alan Kay: 
 > "The best way to predict the future is to invent it."
