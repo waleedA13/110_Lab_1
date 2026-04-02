@@ -35,6 +35,7 @@ def greet_user(name):
     print(f"Hello {name}, welcome to my user page!")
 
 greet_user("Visitor")
+```
 
 # Goals for this Year
 [] Win the DiamonDHacks hackathon this weekend.
