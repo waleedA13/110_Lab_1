@@ -29,8 +29,9 @@ I love building things from scratch. Here are the top three things I have worked
 Sometimes I have to test quick logic on my Raspberry Pi, so I usually run a simple script like 'python test_script.py' in the terminal.
 
 Here is a quick look at how I might start a basic Python script:
+
 '''python
 def greet_user(name):
     print(f"Hello {name}, welcome to my user page!")
 
-greet_user("Visitor")'''
+greet_user("Visitor")
