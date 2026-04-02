@@ -30,7 +30,7 @@ Sometimes I have to test quick logic on my Raspberry Pi, so I usually run a simp
 
 Here is a quick look at how I might start a basic Python script:
 
-'''python
+```python
 def greet_user(name):
     print(f"Hello {name}, welcome to my user page!")
 
