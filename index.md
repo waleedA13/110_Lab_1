@@ -37,7 +37,8 @@ def greet_user(name):
 greet_user("Visitor")
 ```
 
-# Goals for this Year
+# Goals for this Year <a id="goals-for-this-year"></a>
+
 [] Win the DiamonDHacks hackathon this weekend.
 [] Finish the spatial reasoning on AI research project by summer 2026.
 [] Finish my AWS certification.
