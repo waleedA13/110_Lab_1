@@ -2,6 +2,7 @@
 
 Welcome to my user page! I am a computer science student at UC San Diego with a focus on artificial intelligence and machine learning.
 
+Check out my [Resume](./Waleed_Alghaithi_Resume.png)
 You can jump straight to my [Current Projects](#current-projects) or check out my [Goals for this Year](#goals-for-this-year).
 
 ![Waleed's Profile Picture](./pfp.jpg)
@@ -42,3 +43,6 @@ greet_user("Visitor")
 - [ ] Win the DiamonDHacks hackathon this weekend.
 - [ ] Finish the spatial reasoning on AI research project by summer 2026.
 - [ ] Finish my AWS certification.
+
+
+Want to see more of my code? Feel free to check out my main [GitHub Profile](https://github.com/waleeda13).
