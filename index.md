@@ -3,7 +3,8 @@
 Welcome to my user page! I am a computer science student at UC San Diego with a focus on artificial intelligence and machine learning.
 
 Check out my [Resume](./Waleed_Alghaithi_Resume.pdf)
-You can jump straight to my [Current Projects](#current-projects) or check out my [Goals for this Year](#goals-for-this-year).
+
+You can also jump straight to my [Current Projects](#current-projects) or check out my [Goals for this Year](#goals-for-this-year).
 
 ![Waleed's Profile Picture](./pfp.jpg)
 
