@@ -28,7 +28,7 @@ I love building things from scratch. Here are the top three things I have worked
 2. **LBNL Radar Pipeline:** I helped build a complete data pipeline using mmWave radar technology, trained machine learning models like SVM, and deployed it all on a Raspberry Pi.
 3. **Spatial Reasoning AI:** Currently working with a research group on how MMLMs fail to understand how simple physical objects, like LEGO blocks, interact and connect in three-dimensional space. We am investigating whether the Qwen 3.0 architecture's native "Thinking Mode" can independently reslove these spatial errors.
 
-Sometimes I have to test quick logic on my Raspberry Pi, so I usually run a simple script like 'python test_script.py' in the terminal.
+Sometimes I have to test quick logic on my Raspberry Pi, so I usually run a simple script like `python test_script.py` in the terminal.
 
 Here is a quick look at how I might start a basic Python script:
 
