@@ -1,2 +1,2 @@
 # My user page repository
-Link of my user site here -> [My Published User Page]( https://waleeda13.github.io/110_Lab_1/)
+Link of my user site here -> [My Published User Page](https://waleeda13.github.io/110_Lab_1/)
